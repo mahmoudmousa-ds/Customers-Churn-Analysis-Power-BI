@@ -1,7 +1,7 @@
 ## Project Overview  
 Below are the visual slides from the project presentation:  
 
-![Slide 1](output_images/Customers_Churn_page-0001.jpg)  
+![Slide 1](output_images/Customers%Churn_page-0001.jpg)  
 ![Slide 2](output_images/Customers_Churn_page-0002.jpg)  
 ![Slide 3](output_images/Customers_Churn_page-0003.jpg)  
 ![Slide 4](output_images/Customers_Churn_page-0004.jpg)  
